@@ -1,1 +1,1 @@
-
+This is the final project for GIS 5572. It is a automated pipeline system for Brown marmorated stink bug monitoring in the state of Minnesota. The pipeline uses 3 different models: Gravity, Monte Carlo, Huff, to simulate the possibility of the spread of Brown marmorated stink bug. The end reuslts are uploaded to postgis database by using shp2pgsql, final map format of the end results are uploaded to ArcGIS online via GeoJson. This project also utlizes Google Cloud Run service to host the end result layers by using a dockerfile and requirements file. 
