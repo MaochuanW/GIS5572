@@ -12,3 +12,5 @@ By implementing an automated pipeline system with real-time capabilities for mon
 Maochuan Wang
 
 Yaxuan Zhang
+
+# Github could not render the notebook properly for one of the cell in the final_project.ipynb notebook. Please use this link to view the full notebook: https://nbviewer.org/github/MaochuanW/GIS5572/blob/main/final_project/FinalProject1.ipynb
