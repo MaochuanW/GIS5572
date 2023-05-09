@@ -1,4 +1,4 @@
-**Introduction**
+#**Introduction**
 
 This final project for GIS 5572 focuses on developing an automated, real-time pipeline system to monitor the spread of the Brown marmorated stink bug in Minnesota. The pipeline leverages three distinct models - Gravity, Monte Carlo, and Huff - to simulate the potential dispersion patterns of this invasive species on a monthly basis, based on user-specified input for the year and month.
 
